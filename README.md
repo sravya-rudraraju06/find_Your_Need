@@ -2,7 +2,5 @@
 
 # findYourNeed
 
-we for you
-
 
 
